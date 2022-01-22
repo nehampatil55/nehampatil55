@@ -9,8 +9,10 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn. I am activel
 
 
 ### Skills
-Python, Numpy, Pandas, Matplotlib, Seaborn, Plotly, Cufflinks
-Tableau Desktop
+Python, Numpy, Pandas, Matplotlib, Seaborn, Plotly, Cufflinks,
+
+Tableau Desktop,
+
 Exploratory Data Analysis
 
 
